@@ -10,3 +10,4 @@ nom_vecteur
 logique=c(TRUE,FALSE,T)
 logique
 sum(logique)
+#je suis etudiante
